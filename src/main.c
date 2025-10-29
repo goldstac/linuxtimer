@@ -11,5 +11,5 @@ printf("Enter Seconds\n");
 scanf("%d",&seconds);
 total = minutes *60 + seconds;
 sleep(total);
-printf("\aTime Is Up\n");
+printf("Time Is Up\n");
 }
