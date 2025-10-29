@@ -4,8 +4,7 @@ A simple command-line timer for Linux.
 
 ## Description
 
-This is a basic C program that allows you to set a timer for a specified number of minutes and seconds. When the time is up, it will notify you with a message.
-
+This is a basic C program that allows you to set a timer for a specified number of minutes and seconds. 
 ## Getting Started
 
 ### Prerequisites
